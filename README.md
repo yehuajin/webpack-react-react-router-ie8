@@ -1,4 +1,4 @@
-## webpack+react+react-router兼容ie8
+## webpack+react+react-router+es6兼容ie8
 
  这几天解决了`react`在`ie8`下兼容性，解决了我们网站在`ie8`上打开是空白页的问题。亲测完全可用，我们的网站 [http://bp.microyan.com](http://bp.microyan.com)。可以在`ie8`下看看。需要说明的是，我们网站开发的时候完全没有考虑ie8，我们初衷只是兼容`chrome`。后来做兼容`ie8`，代码上基本上没做修改，主要是修改了配置文件(修改后的配置文件见下文)。
 
